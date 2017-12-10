@@ -1,8 +1,8 @@
 {
-  "update_url" : "https://raw.githubusercontent.com/yjfnypeu/UpdatePlugin/master/update_plugin.apk",
-  "update_content" : "你有新的版本需要更新",
+  "update_url" : "https://allenbybid.github.io/ibsc/update.apk",
+  "update_content" : "新版本\n1.修复首页加载错误\n2.修复服务接口",
   "update_md5" : "",
-  "update_ver_code" : 10,
-  "update_ver_name" : "10.00",
+  "update_ver_code" : 1,
+  "update_ver_name" : "1.00",
   "ignore_able" : true
 }
