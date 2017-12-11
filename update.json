@@ -1,8 +1,9 @@
 {
   "update_url" : "https://allenbybid.github.io/ibsc/update.apk",
   "update_content" : "新版本\n1.修复首页加载错误\n2.修复服务接口",
-  "update_md5" : "",
+  "update_md5" : "d5a146cb0eeeb7f3d322c2a5e8c8bb8b",
   "update_ver_code" : 1,
   "update_ver_name" : "1.00",
+  "force" : true,
   "ignore_able" : true
 }
