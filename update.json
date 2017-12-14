@@ -1,7 +1,7 @@
 {
   "update_url" : "https://allenbybid.github.io/ibsc/app1.1.apk",
   "update_content" : "1.修复首页加载错误\n2.修复服务接口l\n3.修复首页文字错误",
-  "update_md5" : "d5a146cb0eeeb7f3d322c2a5e8c8bb8b",
+  "update_md5" : "d41d8cd98f00b204e9800998ecf8427e",
   "update_ver_code" : 2,
   "update_ver_name" : "1.1",
   "update_force" : true,
